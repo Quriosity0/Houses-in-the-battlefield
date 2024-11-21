@@ -1,18 +1,10 @@
-welcome to github page of GMod map named 'Houses in the battlefield'
-
-this page contains files for editing original map
+welcome the old branch of github page of GMod map named 'Houses in the battlefield'
 
 if you want to upload your edited map - just put my name in description as the original author
 
-note: github repository updates firstly, have beta versions of map for anyone (only zip archive with bsp)
+note: this branch of repository will NOT be updated anymore
  
  
 installation:
 
-gma file:
-
 put .gma file in Garry's mod/garrysmod/addons
-
-zip archive:
-
-drag & drop all .zip content to Garry's mod/garrysmod
