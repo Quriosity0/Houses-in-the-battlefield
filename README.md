@@ -16,3 +16,7 @@ put .gma file in Garry's mod/garrysmod/addons
 zip archive:
 
 drag & drop all .zip content to Garry's mod/garrysmod
+
+curent steam release:
+
+subscribe on this - https://steamcommunity.com/sharedfiles/filedetails/?id=3247738066 and the map will install automatically
