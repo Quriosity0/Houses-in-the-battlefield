@@ -1,8 +1,8 @@
 welcome to github page of GMod map named 'Houses in the battlefield'
 
-this page contains files for editing original map
+this page contains original map files (vmf, bsp, nav, thumbnails). You can edit it any way you want
 
-if you want to upload your edited map - just put my name in description as the original author
+if you want to upload your edited version of map - just put my name in description as the original author
 
 note: github repository updates firstly, have beta versions of map for anyone (only zip archive with bsp)
  
