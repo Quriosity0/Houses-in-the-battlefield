@@ -1,6 +1,8 @@
 welcome the old branch of github page of GMod map named 'Houses in the battlefield'
 
-if you want to upload your edited map - just put my name in description as the original author
+this branch contains old versions of vmf, thumbnail and bsp files. You can play and edit this any way you want
+
+if you want to upload your edited version of map - just put my name in description as the original author
 
 note: this branch of repository will NOT be updated anymore
  
