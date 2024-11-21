@@ -15,7 +15,7 @@ put .gma file in Garry's mod/garrysmod/addons
 
 zip archive:
 
-drag & drop all .zip content to Garry's mod/garrysmod
+drag & drop all .zip content to Garry's mod/garrysmod/addons
 
 curent steam release:
 
