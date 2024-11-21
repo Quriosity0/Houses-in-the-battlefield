@@ -4,8 +4,9 @@ this page contains files for editing original map
 
 if you want to upload your edited map - just put my name in description as the original author
 
-
-
+note: github repository updates firstly, have beta versions of map for anyone (only zip archive with bsp)
+ 
+ 
 installation:
 
 gma file:
