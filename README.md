@@ -6,7 +6,7 @@ if you want to upload your edited version of map - just put my name in descripti
 
 note: github repository updates firstly, have beta versions of map for anyone (only zip archive with bsp)
  
- 
+
 installation:
 
 gma file:
