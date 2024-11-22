@@ -4,7 +4,7 @@ this page contains original map files (vmf, bsp, nav, thumbnails). You can edit 
 
 if you want to upload your edited version of map - just put my name in description as the original author
 
-note: github repository updates firstly, have beta versions of map for anyone (only zip archive with bsp)
+note: Github repository updates first, has beta versions of map for anyone (only zip archive with bsp)
  
 
 installation:
