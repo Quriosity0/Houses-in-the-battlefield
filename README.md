@@ -4,8 +4,9 @@ this branch contains old versions of vmf, thumbnail and bsp files. You can play 
 
 if you want to upload your edited version of map - just put my name in description as the original author
 
-note: this branch of repository will NOT be updated anymore
+[note]
+this branch of repository will NOT be updated anymore
 
-installation:
+# installation:
 
 put .gma file in Garry's mod/garrysmod/addons
