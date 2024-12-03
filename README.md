@@ -24,8 +24,8 @@ subscribe to the addon [here](https://steamcommunity.com/sharedfiles/filedetails
 ### if you want to edit this map:
 
 1. install Half-Life 2 Steam full pack, Half-Life: Source, Counter-Strike: Source, Day of Defeat: Source, Left 4 Dead, Portal.
-3. Download "addons.zip" archive. 
-2. Then drag&drop all files from addons.zip to GarrysMod/garrysmod/addons folder
+2. Download "addons.zip" archive. 
+3. Then drag&drop all files from addons.zip to GarrysMod/garrysmod/addons folder
 
 find mount.cfg file and open it and then put this text here 
 ```
@@ -58,3 +58,4 @@ find mount.cfg file and open it and then put this text here
 	"wreckedcars"  "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\wrecked_car_pack"
 }
 ```
+4. Open .vmf file in Hammer editor
