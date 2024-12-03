@@ -4,7 +4,7 @@ this branch contains old versions of vmf, thumbnail and bsp files. You can play 
 
 if you want to upload your edited version of map - just put my name in description as the original author
 
-[note]
+[!NOTE]
 this branch of repository will NOT be updated anymore
 
 # installation:
