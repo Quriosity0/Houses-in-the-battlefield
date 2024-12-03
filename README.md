@@ -27,7 +27,7 @@ subscribe to the addon [here](https://steamcommunity.com/sharedfiles/filedetails
 2. Download "addons.zip" archive. 
 3. Then drag&drop all files from addons.zip to GarrysMod/garrysmod/addons folder
 
-find mount.cfg file and open it and then put this text here 
+4. find mount.cfg file and open it and then put this text here 
 ```
 "mountcfg"
 {
@@ -58,4 +58,4 @@ find mount.cfg file and open it and then put this text here
 	"wreckedcars"  "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\wrecked_car_pack"
 }
 ```
-4. Open .vmf file in Hammer editor
+5. Open .vmf file in Hammer editor
