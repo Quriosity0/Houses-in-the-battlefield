@@ -44,7 +44,7 @@ subscribe to the addon [here](https://steamcommunity.com/sharedfiles/filedetails
 	"foliage"      "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\foliage_pack"
 	"plants"       "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\plants"
 	"rnlfoliage"   "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\rnl_foliage_pack"
-    "glosfol"      "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\glossy_foliage"
+    	"glosfol"      "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\glossy_foliage"
 	"pcmonitors"   "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\pcmonitors"
 	"computers"    "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\computers"
 	"msipcset"     "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\msipcset"
