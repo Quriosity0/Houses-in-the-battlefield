@@ -58,4 +58,6 @@ subscribe to the addon [here](https://steamcommunity.com/sharedfiles/filedetails
 	"wreckedcars"  "A:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\wrecked_car_pack"
 }
 ```
+(The path (drive letter) may differ depending on the location of the games on your PC)
+
 5. Open .vmf file in Hammer editor
